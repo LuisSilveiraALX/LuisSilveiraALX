@@ -41,14 +41,4 @@ Currently focused on improving my skills in **React Native** and building **Zenp
 
 ---
 
-### 🧠 Currently Learning
-- **React Native** (cross-platform mobile apps)
-- **Prisma** & **Next.js App Router**
-- UI design principles for web and mobile
 
----
-
-### ⚡ Fun fact
-When I’m not coding, you’ll probably find me exploring new cafés ☕️, training early 💪, or polishing Zenpha’s next update 🚀.
-
----
