@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-Hi! I'm **Luis**, a Web Developer passionate about crafting digital experiences that connect people and ideas ☕️  
-Currently focused on improving my skills in **React Native** and building **Zenpha**, a platform that gives visibility to unique cafés across Uruguay 🇺🇾.
+Hi! I'm **Luis**, a Web Developer passionate about crafting digital experiences that connect people and ideas ☕️ 
 
 ---
 
